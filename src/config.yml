@@ -1,0 +1,9 @@
+sql:
+  #The address of your MySQL server
+  address: "127.0.0.1"
+  #The database where you want all of your stuff
+  database: "friends"
+  #CHANGE ME! The username to access the database in the MySQL server
+  username: "username"
+  #CHANGE ME! The password to access the database in the MySQL server
+  password: "pass"
